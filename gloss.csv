@@ -1,0 +1,400 @@
+0,Anh
+1,Ba lô
+2,Bia
+3,Buổi chiều
+4,Buổi sáng
+5,Buổi trưa
+6,Buổi tối
+7,Bà ngoại
+8,Bà nội
+9,Bàn phím
+10,Bác
+11,Bác sĩ
+12,Bánh bao
+13,Bánh chưng
+14,Bánh tét
+15,Bánh xèo
+16,Báo cáo
+17,Bây giờ
+18,Bình minh
+19,Bóng bàn
+20,Bóng chuyền
+21,Bóng rổ
+22,Bóng đá
+23,Bún
+24,Bút bi
+25,Bút chì
+26,Bơi lội
+27,Bảng
+28,Bảo vệ
+29,Bận
+30,Bắt buộc
+31,Bắt chước
+32,Bệnh viện
+33,Bố
+34,Ca sĩ
+35,Cao (người)
+36,Cao (đồ vật)
+37,Cay
+38,Cho
+39,Chua
+40,Cháu
+41,Chìa khóa
+42,Chú
+43,Chú ý
+44,Chăm chỉ
+45,Chơi cờ
+46,Chạy
+47,Chậm chạp
+48,Chật
+49,Chết
+50,Chị
+51,Chồng
+52,Chợ
+53,Chụp hình
+54,Chủ nhật
+55,Chủ tịch
+56,Con bò
+57,Con chó
+58,Con dê
+59,Con gà
+60,Con gái
+61,Con heo
+62,Con mèo
+63,Con rùa
+64,Con thỏ
+65,Con trai
+66,Con trâu
+67,Con vịt
+68,Cung cấp
+69,Cà phê
+70,Cái bàn
+71,Cái chảo
+72,Cái cửa
+73,Cái ghế
+74,Cái kéo
+75,Cái nồi
+76,Cái quần
+77,Cái áo
+78,Cái đèn
+79,Có
+80,Cô
+81,Công ty
+82,Công viên
+83,Cũ
+84,Cười
+85,Cảm thấy
+86,Cảm ơn
+87,Cần
+88,Cầu lông
+89,Cậu
+90,Cắm trại
+91,Cục tẩy
+92,Cứng
+93,Cửa sổ
+94,Diễn viên
+95,Dài
+96,Dây chuyền
+97,Dép
+98,Dì
+99,Dũng cảm
+100,Dơ
+101,Dễ
+102,Dỗi
+103,Dở
+104,Dụng cụ học tập
+105,Dừng lại
+106,Dữ
+107,Em
+108,Ghét
+109,Già
+110,Giàu
+111,Giày
+112,Giám đốc
+113,Giáng sinh
+114,Giây
+115,Gió
+116,Giúp đỡ
+117,Giường
+118,Giấy nháp
+119,Giặt đồ
+120,Giỏi
+121,Giới thiệu
+122,Giờ
+123,Gạo
+124,Gần
+125,Gọi
+126,Gối (đầu)
+127,Gội đầu
+128,Hay (khen)
+129,Hiền
+130,Hiệu trưởng
+131,Hoàng hôn
+132,Hy vọng
+133,Hài hước
+134,Hàn Quốc
+135,Hát
+136,Hôi
+137,Hư
+138,Hẹp
+139,Họ hàng
+140,Học
+141,Học sinh
+142,Hứa
+143,Kem
+144,Khoe khoang
+145,Khám bệnh
+146,Khó
+147,Khóc
+148,Khô
+149,Không cho
+150,Không cần
+151,Không nghe lời
+152,Không nên
+153,Không quen
+154,Khăn quàng cổ
+155,Khỏe
+156,Kính lúp
+157,Kẹo
+158,Kẹp tóc
+159,Kế toán
+160,Laptop
+161,Luật sư
+162,Làm bài tập
+163,Làm việc
+164,Lùn
+165,Lười biếng
+166,Lạnh
+167,Lễ tân
+168,Mua bán
+169,Muốn
+170,Màu cam
+171,Màu hồng
+172,Màu nâu
+173,Màu trắng
+174,Màu tím
+175,Màu vàng
+176,Màu xanh da trời
+177,Màu xanh lá cây
+178,Màu đen
+179,Màu đỏ
+180,Mách
+181,Mát mẻ
+182,Máy bay
+183,Máy chiếu
+184,Máy giặt
+185,Máy tính cầm tay
+186,Máy điều hoà
+187,Mì gói
+188,Mùa hè
+189,Mùa khô
+190,Mùa mưa
+191,Mùa thu
+192,Mùa xuân
+193,Mùa đông
+194,Múa
+195,Mũ
+196,Mũ bảo hiểm
+197,Mưa
+198,Mạnh
+199,Mập
+200,Mặn
+201,Mẹ
+202,Mềm
+203,Mền
+204,Mệt
+205,Mới
+206,Mỹ
+207,Nghe
+208,Nghèo
+209,Nghề nghiệp
+210,Nghỉ ngơi
+211,Ngoan
+212,Ngon miệng
+213,Ngu ngốc
+214,Ngày
+215,Ngày Nhà giáo Việt Nam
+216,Ngày Quốc tế Lao động
+217,Ngày Quốc tế Phụ nữ
+218,Ngày Quốc tế Thiếu nhi
+219,Ngân hàng
+220,Ngắn
+221,Ngọt
+222,Ngủ
+223,Ngửi
+224,Nhanh
+225,Nhà
+226,Nhà hàng
+227,Nhà sách
+228,Nhà trọ
+229,Nhân viên phục vụ
+230,Nhân viên văn phòng
+231,Nhạt
+232,Nhảy cao
+233,Nhảy dây
+234,Nhầm lẫn
+235,Nhật Bản
+236,Nhẹ
+237,Nên
+238,Nói
+239,Nói chuyện
+240,Nóng
+241,Nông dân
+242,Năm
+243,Nước
+244,Nướng
+245,Nấu
+246,Nắng
+247,Nặng
+248,Nếm
+249,Nồi cơm điện
+250,Phút
+251,Phơi đồ
+252,Phở
+253,Quan sát
+254,Quen
+255,Quán cà phê
+256,Quạt (đứng)
+257,Quả bơ
+258,Quả cam
+259,Quả chuối
+260,Quả dâu
+261,Quả dứa
+262,Quả dừa
+263,Quả mận
+264,Quả xoài
+265,Quả đu đủ
+266,Quả đào
+267,Quả địa cầu
+268,Quần thun
+269,Quần tây
+270,Quần đùi
+271,Rượu
+272,Rạp chiếu phim
+273,Rẻ
+274,Rộng
+275,Rửa chén
+276,Rửa mặt
+277,Rửa tay
+278,Sai
+279,Sinh viên
+280,Siêu thị
+281,Sách
+282,Sáng tạo
+283,Sạch sẽ
+284,Sớm
+285,Sữa
+286,Taxi
+287,Tham lam
+288,Tham ăn
+289,Thay đổi
+290,Thuyền
+291,Thành phố
+292,Thái Lan
+293,Tháng
+294,Tháng ba
+295,Tháng bảy
+296,Tháng chín
+297,Tháng hai
+298,Tháng mười
+299,Tháng mười hai
+300,Tháng mười một
+301,Tháng một
+302,Tháng năm
+303,Tháng sáu
+304,Tháng tám
+305,Tháng tư
+306,Thèm
+307,Thích
+308,Thông minh
+309,Thú vị
+310,Thơm
+311,Thư ký
+312,Thước kẻ
+313,Thấp (đồ vật)
+314,Thể dục (thể thao)
+315,Thịt
+316,Thời gian
+317,Thời tiết
+318,Thứ ba
+319,Thứ bảy
+320,Thứ hai
+321,Thứ năm
+322,Thứ sáu
+323,Thứ tư
+324,Thức dậy
+325,Thử
+326,Tivi
+327,Tiếp tục
+328,Trung Quốc
+329,Trung thu
+330,Trà
+331,Trường Cao đẳng
+332,Trường học
+333,Trường Đại học
+334,Trẻ
+335,Trễ
+336,Trứng
+337,Trực thăng
+338,Tàu hỏa
+339,Tìm
+340,Túi xách
+341,Tường
+342,Tắm rửa
+343,Tết Âm lịch
+344,Tỉnh
+345,Tốt bụng
+346,Tủ lạnh
+347,Từ chối
+348,Uống
+349,Viên phấn
+350,Viết
+351,Việt Nam
+352,Vâng lời
+353,Vòng tay
+354,Võ
+355,Vở
+356,Vợ
+357,Xa
+358,Xe buýt
+359,Xe máy
+360,Xe tải
+361,Xe đạp
+362,Xem
+363,Xin
+364,Xin lỗi
+365,Xôi
+366,Xấu (vật)
+367,Xấu (người)
+368,Y tá
+369,Yên tĩnh
+370,Yêu thương
+371,Yếu
+372,Áo sơ mi
+373,Áo thun
+374,Áo đầm
+375,Ô tô
+376,Ông ngoại
+377,Ông nội
+378,Ăn
+379,Đau
+380,Đi
+381,Điền kinh
+382,Điện thoại
+383,Đá cầu
+384,Đúng
+385,Đầu bếp
+386,Đậm
+387,Đắng
+388,Đắt
+389,Đẹp (vật)
+390,Đẹp (người)
+391,Đọc
+392,Đồ buộc tóc
+393,Đồ dùng
+394,Đồng hồ đeo tay
+395,Đồng ý
+396,Ướt
+397,Ấm
+398,Ốm
+399,Ồn ào

@@ -1,0 +1,25 @@
+# ----------------- API & Server -----------------
+fastapi==0.115.12
+uvicorn[standard]
+
+# ----------------- Deep Learning ----------------
+# Dùng build CUDA 12.1 (hoạt động trên driver 12.2)
+torch 
+torchvision 
+torchaudio 
+
+onnxruntime-gpu==1.19.2
+# ----------------- CV / Media -------------------
+opencv-python-headless
+mediapipe==0.10.9             # CPU (Mediapipe chưa support GPU Python)
+
+# ----------------- Data utils -------------------
+numpy
+pandas
+simple-parsing
+python-multipart
+pydantic
+rich
+tqdm
+redis
+orjson
